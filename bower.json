@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "for-own": "https://github.com/asko1205/for-own.git",
-    "is-plain-object": "^2.0.0"
+    "is-plain-object": "https://github.com/asko1205/is-plain-object.git"
   },
   "devDependencies": {
     "mocha": "*",
