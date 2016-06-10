@@ -11,7 +11,7 @@
     "index.js"
   ],
   "dependencies": {
-    "for-own": "0.1.4",
+    "for-own": "https://github.com/asko1205/for-own.git",
     "is-plain-object": "^2.0.0"
   },
   "devDependencies": {
